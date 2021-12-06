@@ -1,0 +1,8 @@
+.status_fields{ width:100%;}
+
+.status_fields th{
+	text-align:left;
+	width:150px;
+}
+
+table.status_fields #_ni_order_status_description{ width:100%;}

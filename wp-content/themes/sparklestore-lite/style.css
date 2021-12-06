@@ -1,0 +1,51 @@
+/*
+Theme Name:     SparkleStore Lite
+Theme URI:      https://sparklewpthemes.com/wordpress-themes/sparklestorelite
+Author:         sparklewpthemes
+Author URI:     https://sparklewpthemes.com
+Description:    SparkleStore Lite is a clean user-friendly and feature-rich best free eCommerce SparkleStore child WordPress themes. The themes designed and developed especially for online shopping, eCommerce store websites. Sparkle store Lite is a versatile and highly customizable Free SparkleStore Child WordPress themes that allow you to make your own unique and professional website you have always wanted. SparkleStore Lite is one of the most accessible eCommerce online store WordPress themes which can easily accommodate all type of users with no coding skills to advanced or normal web developers. SparkleStore Lite includes excellent features for eCommerce website and practices of all type of eCommerce business, themes have included more advanced features like one-click demo data import, webpage layout, preloader, advanced theme color, customizer based theme options, page builder-friendly design, individual page &  post layout options also sparkle store Lite is fully compatible with WooCommerce and some other external plugins like YITH WooCommerce Wishlist, YITH WooCommerce Quick View, WOOF – Products Filter for WooCommerce, WooCommerce Variation Swatches, Jetpack, Contact Form 7 and many more plugins. if you face any problem while using our theme, you can refer to our theme documentation (http://docs.sparklewpthemes.com/sparklestore/) or contact our friendly support team (https://sparklewpthemes.com/support/) or Check demo at http://demo.sparklewpthemes.com/sparklestorelite/ and Read theme details at https://sparklewpthemes.com/wordpress-themes/sparklestorelite
+Version:        1.0.5
+Tested up to:   5.7
+Requires PHP:   7.0
+License:        GNU General Public License v3 or later
+License URI:    http://www.gnu.org/licenses/gpl-3.0.html
+Template:       sparklestore
+Text Domain:    sparklestore-lite
+Tags:           one-column, two-columns, right-sidebar, left-sidebar, custom-header, custom-background, custom-menu, translation-ready, featured-images, theme-options, custom-logo, e-commerce, footer-widgets
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+SparkleStore Lite is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Sparklewpthemes is distributed under the terms of the GNU GPL v3 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.header-middle-inner {
+    padding: 50px 0;
+}
+
+.breadcrumbs-wrap {
+    padding: 50px 15px;
+    position: relative;
+    text-align: left;
+}
+
+.woocommerce a.added_to_cart,
+.woocommerce a.product_type_simple,
+.woocommerce a.button.add_to_cart_button,
+.woocommerce a.button.product_type_grouped,
+.woocommerce a.button.product_type_external,
+.woocommerce a.button.product_type_variable {
+    padding: 0px 20px;
+    padding-left: 60px;
+    font-size: 14px;
+}

@@ -1,0 +1,345 @@
+# Translation of Plugins - Translate Websites &#8211; ConveyThis Translate - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Translate Websites &#8211; ConveyThis Translate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-13 02:21:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Translate Websites &#8211; ConveyThis Translate - Stable (latest release)\n"
+
+#: settings.php:592
+msgid "Position type"
+msgstr "Kiểu vị trí"
+
+#: settings.php:598
+msgid "Fixed (fixed in certain position of screen)"
+msgstr "Cố định (cố định ở vị trí nhất định của màn hình)"
+
+#: settings.php:602
+msgid "Custom (placed inside of chosen element)"
+msgstr "Tùy biến (đặt bên trong phần tử được chọn)"
+
+#: settings.php:845
+msgid "Select language"
+msgstr "Chọn ngôn ngữ"
+
+#: settings.php:754
+msgid "Select dropdown menu direction"
+msgstr "Chọn hướng menu thả xuống"
+
+#: settings.php:263
+msgid "Translate PDF (adopt PDF files for specific language)"
+msgstr "Dịch PDF (thông qua tệp PDF cho ngôn ngữ cụ thể)"
+
+#: settings.php:239
+msgid "Translate Media (adopt images for specific language)"
+msgstr "Dịch Media (thông qua hình ảnh cho ngôn ngữ cụ thể)"
+
+#: index.php:818
+msgid "Plugin requires installing php-xml extension."
+msgstr "Plugin yêu cầu cài đặt phần mở rộng php-xml."
+
+#: index.php:805
+msgid "configuration page"
+msgstr "trang cấu hình"
+
+#: index.php:760
+msgid "Add to menu"
+msgstr "Thêm vào menu"
+
+#: index.php:757
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+#: index.php:674 index.php:2922
+msgid "ConveyThis"
+msgstr "ConveyThis"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.conveythis.com/?utm_source=widget&utm_medium=wordpress"
+msgstr "https://www.conveythis.com/?utm_source=widget&utm_medium=wordpress"
+
+#: settings.php:687
+msgid "Right"
+msgstr "Bên phải"
+
+#: settings.php:673
+msgid "Left"
+msgstr "Bên trái"
+
+#: settings.php:656
+msgid "Horizontal location of the language selection button on the site"
+msgstr "Vị trí ngang của nút chọn ngôn ngữ trên trang"
+
+#: settings.php:629
+msgid "Top"
+msgstr "Đầu trang"
+
+#: settings.php:643
+msgid "Bottom"
+msgstr "Cuối trang"
+
+#: settings.php:228
+msgid "This feature is not available on Free plan. If you want to use this feature, please %supgrade your plan%s."
+msgstr "Tính năng này không có sẵn ở gói Miễn phí. Nếu bạn muốn sử dụng tính năng này, vui lòng %snâng cấp gói của bạn%s."
+
+#: settings.php:741
+msgid "Enter id of element, where button will be placed"
+msgstr "Nhập id của thẻ, nơi nút được đặt"
+
+#: settings.php:747
+msgid "* If id of element will not be found on the page, default position will be used"
+msgstr "* Nếu id của thẻ không được tìm thấy trên trang, vị trí mặc định sẽ được sử dụng"
+
+#: settings.php:763
+msgid "Down"
+msgstr "Xuống dưới"
+
+#: settings.php:759
+msgid "Up"
+msgstr "Lên trên"
+
+#: settings.php:203
+msgid "Hide ConveyThis logo."
+msgstr "Ẩn logo ConveyThis."
+
+#: settings.php:168
+msgid "Redirect visitors to translated pages automatically based on user browser's settings."
+msgstr "Chuyển hướng người xem đến trang đã dịch tự động dựa trên cài đặt trình duyệt người dùng."
+
+#: settings.php:193
+msgid "This feature is not available on Free and Starter plans. If you want to use this feature, please %supgrade your plan%s."
+msgstr "Tính năng này không có sẵn ở các gói Miễn phí và Bắt đầu. Nếu bạn muốn sử dụng tính năng này, vui lòng %snâng cấp gói của bạn%s."
+
+#: settings.php:901
+msgid "Add URL that you want to exclude from translations."
+msgstr "Thêm URL bạn muốn để loại bỏ khỏi bản dịch."
+
+#: settings.php:354
+msgid "and drag and drop the ConveyThis Translate Custom link where you want."
+msgstr "rồi kéo và thả liên kết ConveyThis Translate Custom ở nơi bạn muốn."
+
+#: settings.php:353
+msgid "Appearance &gt; Menus"
+msgstr "Giao diện &gt; Menu"
+
+#: settings.php:352
+msgid "You can place the button in a menu area. Go to"
+msgstr "Bạn có thể đặt nút này ở khu vực menu. Đi đến"
+
+#: settings.php:348
+msgid "Languages in menu"
+msgstr "Các ngôn ngữ trong menu"
+
+#: settings.php:338
+msgid "Show"
+msgstr "Hiển thị"
+
+#: settings.php:333
+msgid "Languages in selectbox"
+msgstr "Các ngôn ngữ trong hộp chọn"
+
+#: settings.php:327
+msgid "Customize Languages"
+msgstr "Tùy chỉnh Ngôn ngữ"
+
+#: settings.php:895
+msgid "Block pages"
+msgstr "Khóa trang"
+
+#: settings.php:719
+msgid "Horizontal spacing from the top or bottom of the browser"
+msgstr "Khoảng trống ngang từ phía trên hoặc dưới của trình duyệt"
+
+#: settings.php:448
+msgid "Without flag"
+msgstr "Không gắn cờ"
+
+#: settings.php:930
+msgid "If you need any help, you can contact us via our live chat at %swww.ConveyThis.com%s or email us at support@conveythis.com. You can also check our %sFAQ%s"
+msgstr "Nếu bạn cần trợ giúp, bạn có thể liên hệ chúng tôi thông qua chat trực tuyến tại %swww.ConveyThis.com%s hoặc email cho chúng tôi đến support@conveythis.com. Bạn cũng có thể kiểm tra mục %sFAQ%s của chúng tôi"
+
+#: settings.php:926
+msgid "Love ConveyThis? Give us 5 stars on WordPress.org"
+msgstr "Thích ConveyThis? Cho chúng tôi đánh giá 5 sao trên WordPress.org"
+
+#: settings.php:866
+msgid "Select Flag"
+msgstr "Chọn Cờ"
+
+#: settings.php:140
+msgid "Edit My Translations"
+msgstr "Chỉnh sửa Bản dịch Của tôi"
+
+#: settings.php:60
+msgid "Select source language"
+msgstr "Chọn ngôn ngữ nguồn"
+
+#: index.php:2598
+msgid "change plan"
+msgstr "thay đổi gói"
+
+#: index.php:804
+msgid "You need to configure ConveyThis plugin here:"
+msgstr "Bạn cần cấu hình plugin ConveyThis plugin tại đây:"
+
+#: settings.php:832
+msgid "By default all the languages have their flags in accordance with ISO standards. If you want to change the flag for one or several languages here you can customize this."
+msgstr "Theo mặc định, tất cả các ngôn ngữ đều có cờ theo tiêu chuẩn ISO. Nếu bạn muốn thay đổi cờ cho một hoặc một số ngôn ngữ ở đây, bạn có thể tùy chỉnh điều này."
+
+#: settings.php:319
+msgid "Add to all pages"
+msgstr "Thêm vào tất cả các trang"
+
+#: settings.php:308
+msgid "SEO"
+msgstr "SEO"
+
+#: settings.php:588
+msgid "Position"
+msgstr "Vị trí"
+
+#: settings.php:509
+msgid "Without text"
+msgstr "Không có văn bản"
+
+#: settings.php:495
+msgid "Short text"
+msgstr "Văn bản ngắn"
+
+#: settings.php:481
+msgid "Full text"
+msgstr "Toàn văn"
+
+#: settings.php:464
+msgid "Display the text name of the language"
+msgstr "Hiển thị tên văn bản của ngôn ngữ"
+
+#: settings.php:434
+msgid "Circle flag"
+msgstr "Cờ tròn"
+
+#: settings.php:420
+msgid "Square flag"
+msgstr "Cờ vuông"
+
+#: settings.php:406
+msgid "Rectangle flag"
+msgstr "Cờ hình chữ nhật"
+
+#: settings.php:389
+msgid "Select the display style for flags"
+msgstr "Chọn kiểu hiển thị cho cờ"
+
+#: settings.php:384
+msgid "Picture"
+msgstr "Hình ảnh"
+
+#: settings.php:156
+msgid "Show more options"
+msgstr "Hiển thị nhiều tùy chọn hơn"
+
+#: settings.php:130
+msgid "Where are my translations?"
+msgstr "Bản dịch của tôi ở đâu?"
+
+#: settings.php:84
+msgid "Choose languages you want to translate into."
+msgstr "Chọn ngôn ngữ bạn muốn dịch sang."
+
+#: settings.php:51
+msgid "What is the source (current) language of your website?"
+msgstr "Ngôn ngữ nguồn (hiện tại) của trang web của bạn là gì?"
+
+#: settings.php:47
+msgid "Source Language"
+msgstr "Ngôn ngữ nguồn"
+
+#: settings.php:33
+msgid "Log in to %sConveyThis%s to get your API key."
+msgstr "Đăng nhập vào %sConveyThis%s để lấy khóa API của bạn."
+
+#: settings.php:19
+msgid "Preview"
+msgstr "Xem trước"
+
+#: settings.php:15
+msgid "Main configuration"
+msgstr "Cấu hình chính"
+
+#: index.php:784
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: index.php:776
+msgid "Rate this plugin"
+msgstr "Đánh giá plugin này"
+
+#: index.php:774
+msgid "FAQ"
+msgstr "FAQ"
+
+#. Description of the plugin
+msgid "Translate your WordPress site into over 100 languages using professional and instant machine translation technology. ConveyThis will help provide you with an SEO-friendy, multilingual website in minutes with no coding required."
+msgstr "Dịch trang WordPress của bạn sang 100 ngôn ngữ sử dụng công nghệ dịch thuật nhanh chóng và chuyên nghiệp. ConveyThis sẽ giúp mang đến cho bạn website đa ngôn ngữ thân thiện với SEO chỉ trong vài phút mà không cần viết code."
+
+#: settings.php:826
+msgid "Change flag"
+msgstr "Thay đổi cờ"
+
+#: settings.php:314
+msgid "Hreflang tags"
+msgstr "Thẻ Hreflang"
+
+#: settings.php:702
+msgid "Vertical spacing from the top or bottom of the browser"
+msgstr "Khoảng cách dọc từ trên cùng hoặc dưới cùng của trình duyệt"
+
+#: settings.php:698
+msgid "Indenting"
+msgstr "thụt lề"
+
+#: settings.php:612
+msgid "Vertical location of the language selection button on the site"
+msgstr "Vị trí dọc của nút chọn ngôn ngữ trên trang web"
+
+#: settings.php:459
+msgid "Text"
+msgstr "Văn bản"
+
+#: settings.php:135
+msgid "You can find all your translations in your account"
+msgstr "Bạn có thể tìm thấy tất cả các bản dịch trong tài khoản của bạn"
+
+#: settings.php:112
+msgid "On the free plan, you can only choose one target language. If you want to use more than 1 language, please %supgrade your plan%s."
+msgstr "Trên gói miễn phí, bạn chỉ có thể chọn một ngôn ngữ đích. Nếu bạn muốn sử dụng nhiều hơn 1 ngôn ngữ, vui lòng %snâng cấp gói của bạn%s."
+
+#: settings.php:80
+msgid "Target Languages"
+msgstr "Ngôn ngữ đích"
+
+#: settings.php:29
+msgid "API Key"
+msgstr "Khóa API"
+
+#: index.php:801
+msgid "ConveyThis plugin installed but not yet configured."
+msgstr "Plugin ConveyThis đã cài đặt nhưng chưa được cấu hình."
+
+#: index.php:775
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#. Plugin Name of the plugin
+msgid "ConveyThis Translate"
+msgstr "ConveyThis Translate"
+
+#. Author of the plugin
+msgid "ConveyThis Translate Team"
+msgstr "ConveyThis Translate Team"

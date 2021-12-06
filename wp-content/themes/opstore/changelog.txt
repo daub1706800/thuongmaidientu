@@ -1,0 +1,136 @@
+=== v1.4.3===
+- Fixed wishlist issue
+- Compatibility check with WordPress 5.8
+
+=== v1.4.2===
+- WooCommerce outdated template issue fixed
+- Compatibility check with WordPress 5.7
+
+=== v1.4.1===
+- Minor bugs fixed
+
+=== v1.4.0===
+- Optimized search focus on mobile
+
+=== v1.3.9===
+- Fixed focus issues with search
+
+=== v1.3.8===
+- Fixed styling issues
+
+=== v1.3.7===
+- Fixed responsive header issue
+
+=== v1.3.6===
+- Added dynamic container width option
+- Mobile menu design changed
+
+=== v1.3.5===
+- Fixed Wishlist page issue
+
+=== v1.3.4===
+- Compatibility check with latest WordPress version 5.6
+- Fixed Preloader issue
+- Fixed Sticky sidebar issue
+
+=== v1.3.3===
+- Fixed theme check issues
+- Changed Screenshot
+- Compatibility check with latest WordPress,Elementor and WooCommerce
+
+=== v1.3.2===
+- Fixed customizer control issues
+
+=== v1.3.1===
+- Fixed checkout page design issues
+- Fixed variable issue on quantity input
+- Added Backorder label
+
+=== v1.3.0===
+- Fixed Previous version warning issue
+
+=== v1.2.9 ===
+- Compatibility Check with WooCommerce 4.0
+- Fixed Smooth scroll issue
+- Fixed Responsive issues
+- Added Dynamic background from metabox
+
+=== v1.2.8 ===
+- Added Stock Status option
+- Welcome section styling issue fixed
+- Single product design improvements
+- Script optimizations
+
+=== v1.2.7 ===
+- Updated sanitize functions
+- Minor fixes
+- Style refinements
+
+=== v1.2.6 ===
+- Compatibility check with child themes
+- Added dropdown minicart option
+- Welcome section changed interface
+- Removed unused scripts
+- Style refinements
+
+=== v1.2.5 ===
+- Minor Bug Fixes
+- Added Out of Stock Label
+- Compatibility check with woocommerce
+
+=== v1.2.4 ===
+- Compatibility check with latest Ultra Companion Plugin
+- Added Page banner height option
+
+=== v1.2.3 ===
+- Compatibility check with woocommerce
+
+=== v1.2.2 ===
+- Added option for sale tag and label
+- Responsive Issue Fixed For Order detail page
+- Fixed padding issue in no banner case
+- Popup login on mobile device fixed
+
+=== v1.2.1 ===
+- Minor Bug Fixes
+
+=== v1.2.0 ===
+- Responsive menu issue Fixed
+
+=== v1.0.9 ===
+- Removed depreciated function
+- Compatiblity tests for latest WooCommerce Version
+
+=== v1.0.8 ===
+- Added Clothing v2 demo contents
+
+=== v1.0.7 ===
+- Customizer css issue fixed
+
+=== v1.0.6 ===
+- Added Demo 4
+- Responsive Issues Fixed
+
+=== v1.0.5 ===
+- Minor CSS fixes
+
+=== v1.0.4 ===
+- Minor Bugs Fixed
+
+
+=== v1.0.3 ===
+- Minor Bugs Fixed
+- Added support for YITH Compare 
+- CSS Improvements
+
+
+=== v1.0.2 ===
+- Minor Bugs Fixed
+
+
+=== v1.0.1 ===
+- Minor Bugs Fixed
+
+
+=== v1.0.0 ===
+- Initial release
